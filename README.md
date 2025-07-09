@@ -24,8 +24,11 @@ This project automates the setup and integration of [RALib](https://github.com/L
 
 ## For All Operating System 
 
-Step 1: Check cmake in your System using Commad on Your terminal : cmake --version 
+Step 1: Check cmake in your System using Commad on Your terminal :
+
+        cmake --version 
         if found : cmake version 4.x.x.
+        
         or     
         Not found : 
         For Linux : use this command : 1. sudo apt update
@@ -37,11 +40,14 @@ Step 1: Check cmake in your System using Commad on Your terminal : cmake --versi
 
         For Windows : Install Manually : https://cmake.org/download/
 
-Step 2: Check java in your System using : java --version
+Step 2: Check java in your System using 
+
+        Command :java --version
         if found : java 24.x.x.
         else : Downlaod latest java jdk in your system 
 
 Step 3: Now To run this RALibCoGent-Integration file Use this command on Terminal 
+
         --> cmake . or cmake CMakeLists.txt
 
 ## For Windows User Only 
