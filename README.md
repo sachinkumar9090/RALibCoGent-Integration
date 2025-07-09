@@ -1,4 +1,4 @@
-# RALib-CoGent Pipeline
+# RALib-CoGent Integeration
 
 This project automates the setup and integration of [RALib](https://github.com/LearnLib/ralib) and [CoGent](https://github.com/sandipghosal/CoGent) using a CMake pipeline.
 
@@ -44,7 +44,7 @@ Step 2: Check java in your System using : java --version
 Step 3: Now To run this RALibCoGent-Integration file Use this command on Terminal 
         --> cmake . or cmake CMakeLists.txt
 
-For Windows User Only 
+## For Windows User Only 
 
 Step 1: Install Python 3
 
@@ -68,5 +68,5 @@ Step 3: Install SymPy using pip
 Use This Command to install sympy : pip install sympy 
 
 
-🚀 Run the Tool
+##  Run the Tool
 After build, run your learning target like this: java -ea -jar ralib-fat-runner.jar <java or class file> <ConfigPath> <TargetMethod>
