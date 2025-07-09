@@ -45,11 +45,7 @@ Step 2: Check java in your System using
         Command :java --version
         if found : java 24.x.x.
         else : Downlaod latest java jdk in your system 
-
-Step 3: Now To run this RALibCoGent-Integration file Use this command on Terminal 
-
-        --> cmake . or cmake CMakeLists.txt
-
+        
 ## For Windows User Only 
 
 Step 1: Install Python 3
@@ -75,6 +71,12 @@ Use this Command To Verify Python3 and pip :
 Step 3: Install SymPy using pip
 Use This Command to install sympy :
      pip install sympy 
+        
+Step 3: Now To run this RALibCoGent-Integration file Use this command on Terminal 
+
+        --> cmake . or cmake CMakeLists.txt
+
+
 
 
 ##  Run the Tool
