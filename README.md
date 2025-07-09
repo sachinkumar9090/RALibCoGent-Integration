@@ -66,13 +66,16 @@ Step 2: Verify Python and pip installation
 
 Open CommandPrompt(CMD) :
 Use this Command To Verify Python3 and pip :
+
      python --version  and pip --version
 
 Step 3: Install SymPy using pip
   Use This Command to install sympy :
+  
       pip install sympy 
         
 Step 3: Now To run this RALibCoGent-Integration file Use this command on Terminal 
+
 
         --> cmake . or cmake CMakeLists.txt
 
@@ -81,4 +84,5 @@ Step 3: Now To run this RALibCoGent-Integration file Use this command on Termina
 
 ##  Run the Tool
 After build, run your learning target like this: 
+
       java -ea -jar ralib-fat-runner.jar <java or class file> <ConfigPath> <TargetMethod>
