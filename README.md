@@ -77,7 +77,7 @@ Step 3: Install SymPy using pip
 Step 3: Now To run this RALibCoGent-Integration file Use this command on Terminal 
 
 
-        --> cmake . or cmake CMakeLists.txt
+   cmake . or cmake CMakeLists.txt
 
 
 
