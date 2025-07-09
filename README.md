@@ -67,7 +67,9 @@ Step 2: Verify Python and pip installation
 Open CommandPrompt(CMD) :
 Use this Command To Verify Python3 and pip :
 
-     python --version  and pip --version
+     python --version  
+     
+     pip --version
 
 Step 3: Install SymPy using pip
   Use This Command to install sympy :
@@ -77,7 +79,7 @@ Step 3: Install SymPy using pip
 Step 3: Now To run this RALibCoGent-Integration file Use this command on Terminal 
 
 
-   cmake . or cmake CMakeLists.txt
+          cmake . or cmake CMakeLists.txt
 
 
 
