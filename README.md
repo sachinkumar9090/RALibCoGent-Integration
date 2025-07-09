@@ -69,8 +69,8 @@ Use this Command To Verify Python3 and pip :
      python --version  and pip --version
 
 Step 3: Install SymPy using pip
-Use This Command to install sympy :
-     pip install sympy 
+  Use This Command to install sympy :
+      pip install sympy 
         
 Step 3: Now To run this RALibCoGent-Integration file Use this command on Terminal 
 
