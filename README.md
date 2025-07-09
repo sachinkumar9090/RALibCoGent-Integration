@@ -26,7 +26,7 @@ This project automates the setup and integration of [RALib](https://github.com/L
 
 Step 1: Check cmake in your System using Commad on Your terminal :
 
-        cmake --version 
+        Command :cmake --version 
         if found : cmake version 4.x.x.
         
         or     
@@ -67,12 +67,16 @@ Step 1: Install Python 3
 Click “Install Now” and wait for installation to complete.
 
 Step 2: Verify Python and pip installation
+
 Open CommandPrompt(CMD) :
-Use this Command To Verify Python3 and pip : python --version  and pip --version
+Use this Command To Verify Python3 and pip :
+     python --version  and pip --version
 
 Step 3: Install SymPy using pip
-Use This Command to install sympy : pip install sympy 
+Use This Command to install sympy :
+     pip install sympy 
 
 
 ##  Run the Tool
-After build, run your learning target like this: java -ea -jar ralib-fat-runner.jar <java or class file> <ConfigPath> <TargetMethod>
+After build, run your learning target like this: 
+      java -ea -jar ralib-fat-runner.jar <java or class file> <ConfigPath> <TargetMethod>
