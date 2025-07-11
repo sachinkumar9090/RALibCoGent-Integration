@@ -1,4 +1,4 @@
-# RALib-CoGent Integeration
+# RALibCoGent-Integeration
 
 This project automates the setup and integration of [RALib](https://github.com/LearnLib/ralib) and [CoGent](https://github.com/sandipghosal/CoGent) using a CMake pipeline.
 
