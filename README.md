@@ -88,3 +88,8 @@ Step 3: Now To run this RALibCoGent-Integration file Use this command on Termina
 After build, run your learning target like this: 
 
       java -ea -jar ralib-fat-runner.jar <java or class file> <ConfigPath> <TargetMethod>
+
+
+if you have an existing .xml file then you skip the part of Running RALib 
+
+       java -ea -jar ralib-fat-runner.jar -m <existing_model.xml> <TargetMethod>
